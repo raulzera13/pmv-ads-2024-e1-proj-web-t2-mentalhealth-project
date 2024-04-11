@@ -12,7 +12,7 @@ e que forneça também, de forma rápida e prática, consultas com médicos espe
 ## Integrantes
 
 * Henrique Braga do Pinho Rabelo
-* Nome completo do aluno 2
+* Phillipe Raul Batista Cobra
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
