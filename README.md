@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Saúde Mental
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de aplicação web front-end`
 
-`SEMESTRE`
+`1º Semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo desse projeto é desenvolver uma aplicação web que disponibiliza informações relevantes a respeito da saúde mental 
+e que forneça também, de forma rápida e prática, consultas com médicos especializados.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Henrique Braga do Pinho Rabelo
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
 ## Orientador
 
-* Nome completo do professor 1
+* Viviâne de Almeida Tôrres
 
 ## Instruções de utilização
 
