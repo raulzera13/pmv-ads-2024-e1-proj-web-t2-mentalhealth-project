@@ -22,6 +22,8 @@ Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do
 To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.
 In progress: lista das tarefas iniciadas.
 Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.
+
+O quadro kanban do grupo no GitHub está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1036/views/1
  
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
