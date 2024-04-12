@@ -13,8 +13,7 @@ e que forneça também, de forma rápida e prática, consultas com médicos espe
 
 * Henrique Braga do Pinho Rabelo
 * Phillipe Raul Batista Cobra
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Marco Túlio
 
 ## Orientador
 
