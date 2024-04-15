@@ -2,6 +2,7 @@
 # Projeto de Interface
 # UserFlow
 
+
  Segue abaixo o fluxograma demonstrando a interação inicial do usuário pelas telas da aplicação. As setas indicam o fluxo seguido a partir do primeiro acesso e o caminho percorrido pelo usuário através de wireframes. Para acessar o fluxograma, segue a url : https://www.canva.com/design/DAGCbnCp8sY/XMuWTEcwNSRwG3JTLS02fg/edit?utm_content=DAGCbnCp8sY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
  ![Fluxograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-mentalhealth-project/assets/90708106/bf5e58ce-3154-4bcb-9890-8b3b9fc00e5f)
@@ -15,6 +16,11 @@ As telas do sistema são apresentadas de forma clara para o usuário encontrar o
 
 # Tela - Página Inicial
 A página inicial contém dicas, pesquisas e comentários de médicos sobre variados diagnósticos, além de vídeos e informações sobre como cadastrar um atendimento.
+=======
+## User Flow
+
+O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue.
+
 
 ![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-e1-proj-web-t2-mentalhealth-project/assets/90708106/3b07d029-e260-4b7b-92a0-ffd4a7fdb24d)
 
